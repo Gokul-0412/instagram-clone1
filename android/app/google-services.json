@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11954727980",
+    "project_id": "iotdatabase-5a29c",
+    "storage_bucket": "iotdatabase-5a29c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11954727980:android:20e835690f3fd5e2503589",
+        "android_client_info": {
+          "package_name": "com.example.insta_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYST9TFH0mV-Lq0OY1yIbMaYNL5ut3HnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
